@@ -1,0 +1,96 @@
+{
+	"ping": [
+		"Pong!",
+		"**PONG! {bot_nick}** schlägt den Tischtennisball in **{author}s** Gesicht!",
+		"Ping!",
+		"Pling!",
+		"Dink! Der Ball schmeißt das Limoglas von **{bot_nick}** um!",
+		"Pong! Ball fliegt durch den Raum.",
+		"An error has pinged and has been ponged.",
+		"PING! **{author}**",
+		"Beep Beep Beep?",
+		"{bot_nick}.exe antwortet nicht mehr. Windows sucht nach einer Lösung für das Problem...",
+		"geht dich nichts an ob ich da bin!"
+	],
+	"maxplayers": [
+		"Es sind leider schon ({0}) Spieler in dem Raum. Das ist leider die eingestellte Obergrenze.",
+		"Dieser Raum ist leider mit {0} Spielern bereits voll."
+	],
+	"minplayers": [
+		"Bitte warte auf mindestens {0} Spieler.",
+		"Das Spiel kann erst mit {0} Spielern geladen werden."
+	],
+	"notplayingstart": [
+		"Du bist in keinem Spiel, wie willst du da das Spiel starten? Schreibe `{p}join` um einem Spiel beizutreten."
+	],
+	"notplayingleave": [
+		"Du kannst kein Spiel verlassen, indem du dich nicht befindest!"
+	],
+	"alreadyin": [
+		"Du bist schon am spielen!",
+		"Du bist schon drin!"
+	],
+	"leavelobby": [
+		"**{0}** hat das Spiel verlassen. Es sind noch **{1}** Spieler in der Lobby.",
+		"**{0}** hat sich heimlich aus der Lobby geschlichen! Es sind noch **{1}** Spieler in der Lobby.",
+		"**{0}** hat sich in einen Baum verwandelt. Verbleibende Spieler: **{1}**",
+		"**{0}** poked a bear in the eye with a stick and has paid the price. Remaining players: **{1}**",
+		"**{0}** wurde mit einer Kutsche abgeholt und ist aus dem Dorf geflüchtet! Die Einwohnerzahl des Dorfes liegt nun bei  **{1}**."
+	],
+	"gamestart": [
+		"**{0}** hat eine Werwolfrunde gestartet. Schreibe `{p}join` um beizutreten. Scgreibe `{p}start` um die Runde zu beginnen."
+	],
+	"nokills": [
+		"Die Dorfbewohner finden die Leiche eines geliebten Pinguins, leider ist er statt einem der Nachbarn tot.",
+		"Die Dorfbewohner finden die Leiche eines geliebten Hundes, leider ist er statt einem der Nachbarn tot.",
+		"Die Dorfbewohner finden die Leiche einer geliebten Katze, leider ist er statt einem der Nachbarn tot.",
+		"Die Dorfbewohner finden die Leiche eines geliebten Fisches, leider ist er statt einem der Nachbarn tot.",
+		"Man findet nur viele Tatzenspuren, aber keiner ist verletzt",
+		"Es stinkt im Ganzen Ort nach Wölfen.",
+		"Ihr findet Wolfsfäkalien."
+	],
+	"lynched": [
+		"Die Dorfbewohner lynchen **{0}**, ein **{1}**.",
+		"Die Dorfbewohner hängen **{0}**, ein **{1}**.",
+		"Die Dorfbewohner stellen **{0}** an die Wand, eine spätere Obduktion stellt fest, dass er ein **{1}** war."
+	],
+	"lynchednoreveal": [
+		"Die Dorfbewohner lynchen **{0}**.",
+		"Die Dorfbewohner hängen **{0}**.",
+		"Die Dorfbewohner stellen **{0}** an die Wand",
+		"**{0}** bedringt sich aufgrund des Mistrauens gegen ihn selber um und springt von einer Klippe"
+	],
+	"hastotem": [
+		"**{0}** hat ein mysteriöses Totem...",
+		"**{0}** ist ein Totemträger..."
+	],
+	"hastotem2": [
+		"**{0}** und **{1}** haben beide mysteriöse Totems...",
+		"**{0}** und **{1}** sind Totemträger..."
+	],
+	"hastotems": [
+		"**{0}** und **{1}** haben beide mysteriöse Totems...",
+		"**{0}** und **{1}** sind Totemträger..."
+	],
+	"leavedeath": [
+		"**{0}** verbrennt. Es riecht nach verbranntem **{1}**.",
+		"**{0}** ist auf mysteriöse Weise verschwunden. Keiner weiß wohin der **{1}** verschwunden ist.",
+		"**{0}**, ein **{1}**, wird von einem Blitz erschlagen.",
+		"**{0}**, ein **{1}**, wird von einem Ast erschlagen.",
+		"**{0}**, ein **{1}**, erstickt an einem Apfelstück.",
+		"**{0}**, ein **{1}**, stirbt an einer schweren Sepsis.",
+		"**{0}**, ein **{1}**, fiel in den Brunnen und ertrank."
+	],
+	"leavedeathnoreveal": [
+		"**{0}** verbrennt. Es riecht nach verbranntem Fleisch.",
+		"**{0}** ist auf mysteriöse Weise verschwunden. Keiner weiß wohin der er/sie verschwunden ist.",
+		"**{0}**, wird von einem Blitz erschlagen.",
+		"**{0}** wird von einem Ast erschlagen.",
+		"**{0}** erstickt an einem Apfelstück.",
+		"**{0}** stirbt an einer schweren Sepsis.",
+		"**{0}** fiel in den Brunnen und ertrank."
+	],
+	"firstjoin": [
+		"**{0}** hat eine Werwolfrunde eröffnet. Schreibe `{p}join` um beizutreten. Scgreibe `{p}start` um die Runde zu beginnen."
+	]
+}
