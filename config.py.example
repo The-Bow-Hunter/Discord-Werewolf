@@ -1,20 +1,49 @@
+"""
+What is this file?
+
+This file inherits the configurations you must set for your Bot.
+Please replace all of them and then rename this file to config.py instead of config.py.example
+"""
+
 OWNER_ID = 'owner id (owner has all perms)'
+# To get your own id look here
+# https://support.discord.com/hc/en-us/articles/206346498-Where-can-I-find-my-User-Server-Message-ID-
 BOT_PREFIX = '!'
+# This is the prefix the bot responses to. It has to be in front of every question
 TOKEN = 'bot token goes here'
+"""
+Generate yourself a bot token and paste it here. You find a tutorial 
+under https://discordpy.readthedocs.io/en/latest/discord.html 
+
+You also find how to invite it there
+"""
 GAME_CHANNEL = 'lobby channel id'
+# To get that id look here
+# https://support.discord.com/hc/en-us/articles/206346498-Where-can-I-find-my-User-Server-Message-ID-
 DEBUG_CHANNEL = 'debug channel id (for all your errors and debug stuff)'
+# To get that id look here
+# https://support.discord.com/hc/en-us/articles/206346498-Where-can-I-find-my-User-Server-Message-ID-
 WEREWOLF_SERVER = 'id of server the bot is running on'
+# To get that id look here
+# https://support.discord.com/hc/en-us/articles/206346498-Where-can-I-find-my-User-Server-Message-ID-
 PLAYERS_ROLE_NAME = 'Players'
+# The Name of the role that will be given to Players
 ADMINS_ROLE_NAME = 'Admins'
+# The Name of the role that will be given to Admins
 WEREWOLF_NOTIFY_ROLE_NAME = 'Werewolf Notify'
+# All people with this role will get notified by the bot
 ADMINS = ['admin id', 'admin 2 id', 'etc.']
+# To get that id look here
+# https://support.discord.com/hc/en-us/articles/206346498-Where-can-I-find-my-User-Server-Message-ID-
 IGNORE_LIST = []
+# bot will ignore these. remember to split with ,
 TOKENS_GIVEN = 5
 TOKEN_RESET = 10
 IGNORE_THRESHOLD = 7
 NOTIFY_FILE = 'notify.txt'
 BACKUP_INTERVAL = 300
 MESSAGE_LANGUAGE = 'en'
+# so far just en is available. Add a language file to lang otherwise
 LOG_FILE = 'debug.txt'
 MIN_LOG_LEVEL = 1
 # 0 to log everything, 1 to log only gameplay-related info, 2 to log only warnings
